@@ -7,9 +7,11 @@ height: 200px
 <body>
 <h1> Lilac Photo Gallery</h1>
 <div class="photo gallery"
-<img src="lilac.jpg" alt="lilac" />
-<img src="lilac.jpg" alt="lilac" />
-<img src="lilac.jpg" alt="lilac" />
+<img src="lilac1.jpg" alt="lilac" />
+<img src="lilac2.jpg" alt="lilac" />
+<img src="lilac3.jpg" alt="lilac" />
+<img src="lilac4.jpg" alt="lilac" />
+<img src="lilac5.jpg" alt="lilac" />
 </div>
 <p> All images are licensed under Creative Commons or are in the public domain.These photos were found on <strong> wikimedia commons </strong> </p>
 </body>
