@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title> Lilac Photo Gallery</title>
-height: 200px
-</head>
+  <head>
+    <title> Lilac Photo Gallery</title>
+  </head>
 <body>
 <h1> Lilac Photo Gallery</h1>
-<div class="photo gallery"
-<img src="Lilac1.jpg" alt="lilac" />
-<img src="Lilac2.jpg" alt="lilac" />
-<img src="Lilac3.jpg" alt="lilac" />
-<img src="Lilac4.jpg" alt="lilac" />
-<img src="Lilac5.jpg" alt="lilac" />
+<div class="photo gallery">
+  <img src="Lilac1.jpg" alt="lilac" />
+  <img src="Lilac2.jpg" alt="lilac" />
+  <img src="Lilac3.jpg" alt="lilac" />
+  <img src="Lilac4.jpg" alt="lilac" />
+  <img src="Lilac5.jpg" alt="lilac" />
 </div>
 <p> All images are licensed under Creative Commons or are in the public domain.These photos were found on <strong> wikimedia commons </strong> </p>
 </body>
